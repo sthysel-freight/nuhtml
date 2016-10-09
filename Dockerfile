@@ -4,7 +4,7 @@
 FROM java:8 
 
 MAINTAINER sthysel <sthysel@gmail.com> 
-ENV REFRESHED_AT 2016-10-01
+ENV REFRESHED_AT 2016-10-09
 
 # periphelia
 RUN apt-get install -y --no-install-recommends \
